@@ -6,4 +6,5 @@ Features:
 * Customizable alignment system - you will be able to add your own alignment values
 * New friends and foes you will encounter on your travels
 * Mod integration - currently there are plans for blood magic integration
+
 To submit ideas, create an issue and include a detailed description of the idea.
