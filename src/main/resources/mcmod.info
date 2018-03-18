@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "magyck",
+		"name": "Magyck: Ancient Sorcery",
+		"description": "Discover the power of the Ancients through sorcery",
+		"version": "0.1",
+		"mcversion": "1.7.10",
+		"url": "",
+		"authorList": ["FyreAlchemage"],
+		"credits": "",
+		"logoFile": "",
+		"requiredMods": ["forge"],
+		"dependencies": ["forge"],
+		"useDependencyInformation": true
+	}
+]
